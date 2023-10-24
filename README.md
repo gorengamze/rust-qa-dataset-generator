@@ -8,7 +8,7 @@ This project creates a Synthetic Q-A Dataset for RUST language with InContext Le
 2 different models are used for dataset creation; ['gpt3.5'](Gpt_3_5.ipynb) turbo and ['falcon-7b-instruct'](falcon_7b_instruct.ipynb)- I used quantization to load the model in 4 bit.
 
 ## Data
-Dataset creation was based on the documentation of ['Rust programming language'](.data/rust-doc.pdf).
+Dataset creation was based on the documentation of ['Rust programming language'](data/rust-doc.pdf).
 
 ## Approach
 
